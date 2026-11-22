@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "source": "com/src/main/webapp/js/listofvalues.js",
+      "target": "src/main/resources/js/listofvalues.js"
+    },
+    {
+      "source": "com/src/main/webapp/js/jsonUtils.js",
+      "target": "src/main/resources/js/jsonUtils.js"
+    },
+    {
+      "source": "com/src/main/java/com/policy/domain/Policy.java",
+      "target": "src/main/java/com/policy/domain/Policy.java"
+    }
+  ]
+}
